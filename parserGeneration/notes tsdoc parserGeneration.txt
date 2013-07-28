@@ -1,0 +1,12 @@
+
+This uses PEGJS:
+http://pegjs.majda.cz/
+
+The input grammar is
+dtsparser.pegjs
+
+-------------------------
+
+cd /d "D:\Dev\TSDoc\parserGeneration"
+generateParser.bat
+
