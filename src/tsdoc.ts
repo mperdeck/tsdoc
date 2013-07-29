@@ -1,4 +1,4 @@
-﻿/// <reference path="references/node.d.ts"/> 
+﻿/// <reference path="../references/node.d.ts"/> 
 import FileTypes = module("lib/FileTypes");
 import ParseTreeTypes = module("lib/ParseTreeTypes");
 

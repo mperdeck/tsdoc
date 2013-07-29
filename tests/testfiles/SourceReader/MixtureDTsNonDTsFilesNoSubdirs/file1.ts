@@ -1,0 +1,1 @@
+Not a d.ts file
